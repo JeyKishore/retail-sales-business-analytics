@@ -8,6 +8,11 @@ This project demonstrates an end-to-end data analytics workflow, from data clean
 
 The goal is to transform raw retail data into meaningful business insights that support data-driven decision-making.
 
+
+## Dashboard Preview
+
+![Retail Sales Business Analytics Dashboard](images/dashboard.png)
+
 ## 🛠️ Technologies Used
 
 - **Python** — Data cleaning, analysis, and chart generation
