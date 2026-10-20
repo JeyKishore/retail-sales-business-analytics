@@ -152,4 +152,4 @@ Improve dashboard deployment and documentation.
 
 Jey Kishore K
 
-LinkedIn: https://www.linkedin.com/in/jey-kishore-k
+LinkedIn: https://in.linkedin.com/in/jey-kishore-k
